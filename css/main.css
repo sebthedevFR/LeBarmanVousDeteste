@@ -1,0 +1,16 @@
+body {
+	background-image: url(http://i.imgur.com/frIDAZd.jpg); 
+}
+
+.banner {
+	background-color: rgb(255,0,0);
+	width: 800px;
+	height: 200px;
+	margin: auto;
+	text-align: center;
+}
+
+.banner h1 {
+	font-size: 60px;
+	margin-top: 50px;
+}
