@@ -1,9 +1,9 @@
 body {
-	background-image: url(http://i.imgur.com/frIDAZd.jpg); 
+	background-image: url(http://i.imgur.com/ARDBAQu.jpg); 
 }
 
 .banner {
-	background-color: rgb(255,0,0);
+	background-color:;
 	width: 1000px;
 	height: 200px;
 	margin: auto;
@@ -14,6 +14,7 @@ body {
 .banner h1 {
 	font-size: 100px;
 	margin-top: 50px;
+	color: #432f28;
 }
 
 .main {
@@ -35,4 +36,9 @@ body {
 .main a:hover {
 	text-decoration: none;
 	color: #432f28;
+}
+
+img {
+	width: 200px;
+
 }
